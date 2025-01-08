@@ -23,3 +23,7 @@ website, enabling quick and customizable UI development.
 
 By combining these technologies, I have created an efficient and scalable
 website.
+
+
+## command line 
+```npm i

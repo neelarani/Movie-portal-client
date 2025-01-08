@@ -27,15 +27,16 @@ website.
 
 ## Dependencies
 
-  "dependencies": {
-    "firebase": "^11.0.2",
-    "localforage": "^1.10.0",
-    "match-sorter": "^8.0.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^7.0.2",
-   
-  },
+```json
+"dependencies": {
+  "firebase": "^11.0.2",
+  "localforage": "^1.10.0",
+  "match-sorter": "^8.0.0",
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "react-router-dom": "^7.0.2"
+}
+
 
   ## devDependencies
   

@@ -25,5 +25,10 @@ By combining these technologies, I have created an efficient and scalable
 website.
 
 
-## command line 
-```npm i
+## Installation
+
+To install the necessary dependencies, run the following command:
+
+```bash
+npm install
+

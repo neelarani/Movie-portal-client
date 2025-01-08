@@ -27,6 +27,7 @@ website.
 
 ## Dependencies
 
+{
 "dependencies": {
   "firebase": "^11.0.2",
   "localforage": "^1.10.0",
@@ -43,6 +44,7 @@ website.
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
   },
+  }
 
 
 

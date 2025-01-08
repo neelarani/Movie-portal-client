@@ -25,17 +25,7 @@ By combining these technologies, I have created an efficient and scalable
 website.
 
 
-## Installation
-
-To install the necessary dependencies, run the following command:
-
-```bash
-npm install
-
-
 ## Dependencies
-
-```json
 
 "dependencies": {
   "firebase": "^11.0.2",
@@ -56,6 +46,12 @@ npm install
 
 
 
+## Installation
+
+To install the necessary dependencies, run the following command:
+
+```bash
+npm install
 
 
 

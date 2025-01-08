@@ -28,6 +28,7 @@ website.
 ## Dependencies
 
 ```json
+{
 "dependencies": {
   "firebase": "^11.0.2",
   "localforage": "^1.10.0",
@@ -36,17 +37,15 @@ website.
   "react-dom": "^18.3.1",
   "react-router-dom": "^7.0.2"
 }
-
-
-  ## devDependencies
   
-  "devDependencies": {
+ "devDependencies": {
     "@eslint/js": "^9.15.0",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
   },
+}
 
 
 
